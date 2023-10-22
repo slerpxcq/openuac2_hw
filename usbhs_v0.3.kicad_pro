@@ -120,6 +120,7 @@
       },
       "track_widths": [
         0.0,
+        0.4,
         0.6
       ],
       "via_dimensions": [
@@ -409,7 +410,7 @@
         "clearance": 0.2,
         "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.284,
+        "diff_pair_width": 0.7046,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,

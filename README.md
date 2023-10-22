@@ -3,4 +3,4 @@ Hardware platform for OpenUAC2 project
 
 ![Alt text](img.png?raw=true)
 
-**WARNING**: The form factor is compatible with combo384, but the pinout is **NOT**, if you want a drop in replace, please modify the PCB.
+**WARNING**: The form factor of this module is compatible with combo384, however, the pinout is **NOT** fully the same. Check carefully before installing this card to any existing system.
